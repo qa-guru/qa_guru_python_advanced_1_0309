@@ -1,0 +1,4 @@
+curlify
+pytest
+voluptuous
+pytest-voluptuous
