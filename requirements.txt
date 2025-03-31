@@ -1,4 +1,7 @@
-curlify
-pytest
-voluptuous
-pytest-voluptuous
+allure-pytest==2.13.5
+curlify==2.2.1
+pytest==8.3.5
+voluptuous==0.15.2
+jsonschema==4.23.0
+jinja2==3.1.6
+pytest-voluptuous==1.2.0

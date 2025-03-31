@@ -1,9 +1,4 @@
-import json
-
-import requests
-from jsonschema import validate
-
-from model.reqres import ResponseGetUser, User, ResponseUser, Reqres
+from model.reqres import ResponseGetUser, ResponseUser, Reqres
 
 
 def test_get_user(reqresin):
